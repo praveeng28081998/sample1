@@ -1,4 +1,0 @@
-first line code for chat app
-second line code for chat app
-third line code for chat app
-fourth line code for chat app
